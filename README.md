@@ -23,12 +23,23 @@
 <hr class="wp-block-separator has-alpha-channel-opacity">
 
 
-
 <p></p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><a href="https://youtu.be/qbu1m_C1wyA"><img decoding="async" width="853" height="486" src="./Digital_Signature_Forgery_Attack/image-7.png" alt="Digital Signature Forgery Attack: How CVE-2025-29774 Vulnerabilities and the SIGHASH_SINGLE Bug Threaten Multi-Signature Wallet Operational Methods with Fake RawTX" class="wp-image-3443" style="width:544px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2025/07/image-7.png 853w, https://cryptodeeptech.ru/wp-content/uploads/2025/07/image-7-300x171.png 300w, https://cryptodeeptech.ru/wp-content/uploads/2025/07/image-7-768x438.png 768w" sizes="(max-width: 853px) 100vw, 853px"></a><figcaption class="wp-element-caption"><a href="https://youtu.be/qbu1m_C1wyA" target="_blank" rel="noreferrer noopener">https://youtu.be/qbu1m_C1wyA</a></figcaption></figure></div>
+<figure class="aligncenter size-full is-resized"><a href="https://youtu.be/qbu1m_C1wyA"><img class="wp-image-3443" style="width: 544px; height: auto;" src="./Digital_Signature_Forgery_Attack/image-7.png" sizes="(max-width: 853px) 100vw, 853px" srcset="https://cryptodeeptech.ru/wp-content/uploads/2025/07/image-7.png 853w, https://cryptodeeptech.ru/wp-content/uploads/2025/07/image-7-300x171.png 300w, https://cryptodeeptech.ru/wp-content/uploads/2025/07/image-7-768x438.png 768w" alt="Digital Signature Forgery Attack: How CVE-2025-29774 Vulnerabilities and the SIGHASH_SINGLE Bug Threaten Multi-Signature Wallet Operational Methods with Fake RawTX" width="853" height="486" /></a>
+<figcaption class="wp-element-caption"></figcaption>
+</figure>
+</div>
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://youtu.be/qbu1m_C1wyA" target="_blank" rel="noreferrer noopener"><strong>https://youtu.be/qbu1m_C1wyA</strong></a></p>
+<!-- /wp:paragraph -->
+
+
+<p></p>
+
+
 
 
 <p></p>
